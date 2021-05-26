@@ -64,8 +64,10 @@
 <details open="open">
   <summary>Tabla de contenidos</summary>
   <ol>
-    <li><a href="#acerca-del-proyecto">Acerca del proyecto</a></li>
+    <li><a href="#acerca-del-proyecto">Descripción y contexto</a></li>
+    <li><a href="#guia-de-usuario">Guía de usuario</a></li>
     <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
+    <li><a href="#informacion-adicional">Información adicional</a></li>
     <li>
       <a href="#como-empezar">Como empezar</a>
       <ul>
@@ -85,6 +87,9 @@
 <i>Inspector Ciudadano es una aplicación móvil que permite al usuario hacer reportes de incidencias del día a día que afectan su entorno y la sociedad según su localización. 
   
 Mediante Inspector Ciudadano puedes reportar, a través de alertas o denuncias, situaciones irregulares que se presenten en las vías de la República Dominicana directamente a las instituciones correspondientes.</i>
+
+## Guia de Usuario
+<i>Explica los pasos básicos sobre cómo usar la herramienta digital. Es una buena sección para mostrar capturas de pantalla o gifs que ayuden a entender la herramienta digital.</i>
   
 ## Tecnologias Utilizadas
 <ul>
@@ -105,6 +110,9 @@ Mediante Inspector Ciudadano puedes reportar, a través de alertas o denuncias, 
     </ul>
   </li>
 </ul>
+
+## Información Adicional
+<i>Esta es la sección que permite agregar más información de contexto al proyecto como alguna web de relevancia, proyectos similares o que hayan usado la misma tecnología.</i>
 
 ## Como contribuir
 <i>Esta sección explica a desarrolladores cuáles son las maneras habituales de enviar una solicitud de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código. También puedes hacer un listado de puntos que se pueden mejorar de tu código para crear ideas de mejora.</i>
