@@ -6,8 +6,13 @@
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/alexblandino/template/main/main-logo.jpg?token=AAPER2WD34MPNZ7FPBBTE7TAW6C7A" />
+<img src="https://raw.githubusercontent.com/alexblandino/template/main/main-logo.jpg?token=AAPER2WD34MPNZ7FPBBTE7TAW6C7A" align="center" />
 <h1>Inspector Ciudadano</h1>
 </div>
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
