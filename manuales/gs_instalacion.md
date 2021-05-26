@@ -3,20 +3,20 @@
 <img
   alt="Presidencia de la República Dominicana"
   title="Presidencia de la República Dominicana"
-  src="manuales/assets/page-break.png" />
+  src="assets/page-break.png" />
 <div>
   <img
     width="300"
     align="left"
     alt="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
     title="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
-    src="manuales/assets/optic.svg" />
+    src="assets/optic.svg" />
   <img
     width="150"
     align="right"
     alt="Fábrica Digital"
     title="Fábrica Digital"
-    src="manuales/assets/digital-factory.png" />
+    src="assets/digital-factory.png" />
 </div>
 <br>
 <br>
@@ -35,5 +35,5 @@ _Aqui se desglosan todos los pasos que se deben ejecutar para poder correr la pl
 <img
   alt="Presidencia de la República Dominicana"
   title="Presidencia de la República Dominicana"
-  src="manuales/assets/page-break.png" />
+  src="assets/page-break.png" />
 <!-- Seccion obligatoria para todas las paginas subyacentes (cierre) -->
