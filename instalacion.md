@@ -18,20 +18,20 @@
     title="Fábrica Digital"
     src="https://raw.githubusercontent.com/alexblandino/template/main/digital-factory.PNG?token=AAPER2S34VOC3GFPM3ZKOEDAW6C56" >
 </div>
+<br>
+<br>
+<br>
+<br>
 <!-- Seccion obligatoria para todas las paginas subyacentes (cierre) -->
-<br>
-<br>
-<br>
-<br>
 
 # Instalación de la Plataforma
 _Aqui se desglosan todos los pasos que se deben ejecutar para poder correr la plataforma de forma exitosa._
 
-<br>
-<br>
-<br>
-<br>
 <!-- Seccion obligatoria para todas las paginas subyacentes (apuertura) -->
+<br>
+<br>
+<br>
+<br>
 <img
   alt="Presidencia de la República Dominicana"
   title="Presidencia de la República Dominicana"
