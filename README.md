@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/alexblandino/template/main/main-logo.jpg?token=AAPER2WD34MPNZ7FPBBTE7TAW6C7A" align="center" />
+<img src="https://raw.githubusercontent.com/alexblandino/template/main/main-logo.png?token=AAPER2UNEFFLND6L5ZFHQP3AW6EES" align="center" width="760" />
 <h1>Inspector Ciudadano</h1>
 </div>
 [![Contributors][contributors-shield]][contributors-url]
