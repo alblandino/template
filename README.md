@@ -1,19 +1,22 @@
 <!-- Cabecera del proyecto -->
-<img src="https://raw.githubusercontent.com/alexblandino/template/main/page-break.PNG?token=AAPER2VXUG4Z2WOQOEQVDQTAW6FZS">
+<img
+  alt="Presidencia de la República Dominicana"
+  title="Presidencia de la República Dominicana"
+  src="https://raw.githubusercontent.com/alexblandino/template/main/page-break.PNG?token=AAPER2VXUG4Z2WOQOEQVDQTAW6FZS" />
 <div>
   <img
-       width="300"
-       align="left"
-       alt="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
-       title="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
-       src="https://optic.gob.do/wp-content/themes/optic/img/logo.svg" />
+    width="300"
+    align="left"
+    alt="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
+    title="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
+    src="https://optic.gob.do/wp-content/themes/optic/img/logo.svg" />
   
   <img
-       width="150"
-       align="right"
-       alt="Fábrica Digital"
-       title="Fábrica Digital"
-       src="https://raw.githubusercontent.com/alexblandino/template/main/digital-factory.PNG?token=AAPER2S34VOC3GFPM3ZKOEDAW6C56" >
+    width="150"
+    align="right"
+    alt="Fábrica Digital"
+    title="Fábrica Digital"
+    src="https://raw.githubusercontent.com/alexblandino/template/main/digital-factory.PNG?token=AAPER2S34VOC3GFPM3ZKOEDAW6C56" >
 </div>
 
 <br>
@@ -106,4 +109,7 @@ Mediante Inspector Ciudadano puedes reportar, a través de alertas o denuncias, 
 <i>Esta sección explica a desarrolladores cuáles son las maneras habituales de enviar una solicitud de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código. También puedes hacer un listado de puntos que se pueden mejorar de tu código para crear ideas de mejora.</i>
 
 
-<img src="https://raw.githubusercontent.com/alexblandino/template/main/page-break.PNG?token=AAPER2VXUG4Z2WOQOEQVDQTAW6FZS">
+<img
+  alt="Presidencia de la República Dominicana"
+  title="Presidencia de la República Dominicana"
+  src="https://raw.githubusercontent.com/alexblandino/template/main/page-break.PNG?token=AAPER2VXUG4Z2WOQOEQVDQTAW6FZS" />
