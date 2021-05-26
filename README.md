@@ -44,20 +44,24 @@
     <a href="https://github.com/{REPOSITORIO}/issues">Reportar Error</a>
     ·
     <a href="https://github.com/{REPOSITORIO}/issues">Solicitar Nueva Función</a>
+    <br />
+    <br />
+    <img src="https://img.shields.io/badge/coverage-80%25-yellowgreen" alt="Coverage" title="Coverage" />
+    <img src="https://img.shields.io/badge/version-1.2.3-blue" alt="Última versión estable" title="Última versión estable"/>
+    <img src="https://img.shields.io/badge/uptime-100%25-brightgreen" alt="Uptime Robot" title="Uptime Robot"/>
+    
   </p>
+
+
 </div>
 <!-- Cabecera del proyecto -->
-
+<hr />
 <!-- Contenido del proyecto -->
 <details open="open">
   <summary>Tabla de contenidos</summary>
   <ol>
-    <li>
-      <a href="#acerca-del-proyecto">Acerca del proyecto</a>
-      <ul>
-        <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
-      </ul>
-    </li>
+    <li><a href="#acerca-del-proyecto">Acerca del proyecto</a></li>
+    <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
     <li>
       <a href="#como-empezar">Como empezar</a>
       <ul>
@@ -71,8 +75,35 @@
 </details>
 <!-- Contenido del proyecto -->
 
-## Acerca del Proyecto
--
-## Tecnologias Utilizadas
--
 
+
+## Acerca del Proyecto
+<i>Inspector Ciudadano es una aplicación móvil que permite al usuario hacer reportes de incidencias del día a día que afectan su entorno y la sociedad según su localización. 
+  
+Mediante Inspector Ciudadano puedes reportar, a través de alertas o denuncias, situaciones irregulares que se presenten en las vías de la República Dominicana directamente a las instituciones correspondientes.</i>
+  
+## Tecnologias Utilizadas
+<ul>
+  <li>
+    <strong>Tecnologías Backend</strong>
+    <ul>
+      <li><strong>Bases de datos:</strong>MariaDB (10.6.1 Beta)</li>
+      <li><strong>Frameworks:</strong>PHP (Laravel 5.2), Ruby (RoR 6.1.3.2) y Python (Django 3.2.3)</li>
+    </ul>
+  </li>
+  <br />
+  <li>
+    <strong>Tecnologias Móviles</strong>
+    <ul>
+      <li>React Native (0.64)</li>
+      <li>Redux</li>
+      <li>redux-thunk</li>
+    </ul>
+  </li>
+</ul>
+
+## Como contribuir
+<i>Esta sección explica a desarrolladores cuáles son las maneras habituales de enviar una solicitud de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código. También puedes hacer un listado de puntos que se pueden mejorar de tu código para crear ideas de mejora.</i>
+
+
+<img src="https://raw.githubusercontent.com/alexblandino/template/main/page-break.PNG?token=AAPER2VXUG4Z2WOQOEQVDQTAW6FZS">
