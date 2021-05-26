@@ -68,8 +68,8 @@
     <li>
       <a href="#">Como empezar</a>
       <ul>
-        <li><a href="#prerequisitos">Prerequisitos</a></li>
-        <li><a href="#installation">Instalación</a></li>
+        <li><a href="prerequisitos">Prerequisitos</a></li>
+        <li><a href="installation">Instalación</a></li>
       </ul>
     </li>
     <li><a href="#como-contribuir">Como contribuir</a></li>
