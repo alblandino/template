@@ -67,7 +67,7 @@
     <li><a href="#acerca-del-proyecto">Descripción y contexto</a></li>
     <li><a href="#guia-de-usuario">Guía de usuario</a></li>
     <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
-    <li><a href="#informacion-adicional">Información adicional</a></li>
+    <li><a href="#información-adicional">Información adicional</a></li>
     <li>
       <a href="#como-empezar">Como empezar</a>
       <ul>
