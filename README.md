@@ -11,7 +11,6 @@
     alt="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
     title="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
     src="https://optic.gob.do/wp-content/themes/optic/img/logo.svg" />
-  
   <img
     width="150"
     align="right"
@@ -20,6 +19,7 @@
     src="https://raw.githubusercontent.com/alexblandino/template/main/digital-factory.PNG?token=AAPER2S34VOC3GFPM3ZKOEDAW6C56" >
 </div>
 <!-- Seccion obligatoria para todas las paginas subyacentes (cierre) -->
+
 <br>
 <br>
 <br>
@@ -34,15 +34,13 @@
   <img src="https://raw.githubusercontent.com/alexblandino/template/main/main-logo.png?token=AAPER2UNEFFLND6L5ZFHQP3AW6EES" align="center" width="760" />
   <br>
   <br>
-  <h1>Inspector Ciudadano</h1> <!-- Titulo del proyecto-->
+  # <h1>Inspector Ciudadano</h1> <!-- Titulo del proyecto-->
   <i>
     <!-- Breve descripcion del proyecto -->
     Inspector Ciudadano es una aplicación móvil que permite al usuario hacer reportes de incidencias del día a día que afectan su entorno y la sociedad según su localización.   
   </i>
 </div>
-
 <br />
-
 <div>  
   <p align="center">
     <a href="../../issues">Reportar Error</a>
@@ -53,13 +51,12 @@
     <img src="https://img.shields.io/badge/coverage-80%25-yellowgreen" alt="Coverage" title="Coverage" />
     <img src="https://img.shields.io/badge/version-1.2.3-blue" alt="Última versión estable" title="Última versión estable"/>
     <img src="https://img.shields.io/badge/uptime-100%25-brightgreen" alt="Uptime Robot" title="Uptime Robot"/>
-    
   </p>
-
-
 </div>
 <!-- Cabecera del proyecto -->
+
 <hr />
+
 <!-- Contenido del proyecto -->
 <details open="open">
   <summary>Tabla de contenidos</summary>
