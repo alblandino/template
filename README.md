@@ -115,8 +115,14 @@ Mediante Inspector Ciudadano puedes reportar, a través de alertas o denuncias, 
 <i>Esta sección explica a desarrolladores cuáles son las maneras habituales de enviar una solicitud de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código. También puedes hacer un listado de puntos que se pueden mejorar de tu código para crear ideas de mejora.</i>
 
 <!-- Seccion obligatoria para todas las paginas subyacentes (apuertura) -->
-<img
-  alt="Presidencia de la República Dominicana"
-  title="Presidencia de la República Dominicana"
-  src="https://raw.githubusercontent.com/alexblandino/template/main/page-break.PNG?token=AAPER2VXUG4Z2WOQOEQVDQTAW6FZS" />
+<hr />
+<div align="center">
+  <img
+    width="500"
+    align="center"
+    alt="Presidencia de la República Dominicana"
+    title="Presidencia de la República Dominicana"
+    src="https://presidencia.gob.do/sites/default/files/statics/logos/logo-presidencia-center.svg" />
+</div>
+<br />
 <!-- Seccion obligatoria para todas las paginas subyacentes (cierre) -->
