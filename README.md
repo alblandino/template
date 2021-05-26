@@ -44,9 +44,9 @@
 
 <div>  
   <p align="center">
-    <a href="https://github.com/{REPOSITORIO}/issues">Reportar Error</a>
+    <a href="issues">Reportar Error</a>
     ·
-    <a href="https://github.com/{REPOSITORIO}/issues">Solicitar Nueva Función</a>
+    <a href="issues">Solicitar Nueva Función</a>
     <br />
     <br />
     <img src="https://img.shields.io/badge/coverage-80%25-yellowgreen" alt="Coverage" title="Coverage" />
