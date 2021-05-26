@@ -10,7 +10,7 @@
     align="left"
     alt="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
     title="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
-    src="manuales/assets/logo.svg" />
+    src="manuales/assets/optic.svg" />
   <img
     width="150"
     align="right"
@@ -34,7 +34,7 @@
   <img src="manuales/assets/main-logo.png" align="center" width="760" />
   <br>
   <br>
-  # <h1>Inspector Ciudadano</h1> <!-- Titulo del proyecto-->
+  <h1>Inspector Ciudadano</h1> <!-- Titulo del proyecto-->
   <i>
     <!-- Breve descripcion del proyecto -->
     Inspector Ciudadano es una aplicación móvil que permite al usuario hacer reportes de incidencias del día a día que afectan su entorno y la sociedad según su localización.   
