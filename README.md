@@ -7,7 +7,7 @@
        alt="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
        title="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
        src="https://optic.gob.do/wp-content/themes/optic/img/logo.svg" />
- 
+  
   <img
        width="150"
        align="right"
@@ -26,11 +26,13 @@
 <br>
 
 <div align="center">
+  <!-- Logo del proyecto (preferiblemente PNG con fondo transparente) -->
   <img src="https://raw.githubusercontent.com/alexblandino/template/main/main-logo.png?token=AAPER2UNEFFLND6L5ZFHQP3AW6EES" align="center" width="760" />
   <br>
   <br>
-  <h1>Inspector Ciudadano</h1>
+  <h1>Inspector Ciudadano</h1> <!-- Titulo del proyecto-->
   <i>
+    <!-- Breve descripcion del proyecto -->
     Inspector Ciudadano es una aplicación móvil que permite al usuario hacer reportes de incidencias del día a día que afectan su entorno y la sociedad según su localización.   
   </i>
 </div>
@@ -65,7 +67,6 @@
     </li>
     <li><a href="#como-contribuir">Como contribuir</a></li>
     <li><a href="LICENSE">Licencia</a></li>
-    <li><a href="#contacto">Contacto</a></li>
   </ol>
 </details>
 <!-- Contenido del proyecto -->
@@ -74,5 +75,4 @@
 -
 ## Tecnologias Utilizadas
 -
-## Tecnologias Utilizadas
--
+
