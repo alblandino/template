@@ -1,4 +1,5 @@
 <!-- Cabecera del proyecto -->
+<!-- Seccion obligatoria para todas las paginas subyacentes (apertura) -->
 <img
   alt="Presidencia de la República Dominicana"
   title="Presidencia de la República Dominicana"
@@ -18,7 +19,7 @@
     title="Fábrica Digital"
     src="https://raw.githubusercontent.com/alexblandino/template/main/digital-factory.PNG?token=AAPER2S34VOC3GFPM3ZKOEDAW6C56" >
 </div>
-
+<!-- Seccion obligatoria para todas las paginas subyacentes (cierre) -->
 <br>
 <br>
 <br>
@@ -108,8 +109,9 @@ Mediante Inspector Ciudadano puedes reportar, a través de alertas o denuncias, 
 ## Como contribuir
 <i>Esta sección explica a desarrolladores cuáles son las maneras habituales de enviar una solicitud de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código. También puedes hacer un listado de puntos que se pueden mejorar de tu código para crear ideas de mejora.</i>
 
-
+<!-- Seccion obligatoria para todas las paginas subyacentes (apuertura) -->
 <img
   alt="Presidencia de la República Dominicana"
   title="Presidencia de la República Dominicana"
   src="https://raw.githubusercontent.com/alexblandino/template/main/page-break.PNG?token=AAPER2VXUG4Z2WOQOEQVDQTAW6FZS" />
+<!-- Seccion obligatoria para todas las paginas subyacentes (cierre) -->
