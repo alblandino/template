@@ -1,5 +1,5 @@
 <div>
-<img src="https://raw.githubusercontent.com/alexblandino/template/main/digital-factory.PNG?token=AAPER2S34VOC3GFPM3ZKOEDAW6C56" width="150" alt="OPTIC" title="OPTIC" align="left"/>
+<img src="https://optic.gob.do/wp-content/themes/optic/img/logo.svg" width="300" alt="Oficina Presidencial de Tecnología de la Información y de la Comunicación" title="Oficina Presidencial de Tecnología de la Información y de la Comunicación" align="left"/>
 <img src="https://raw.githubusercontent.com/alexblandino/template/main/digital-factory.PNG?token=AAPER2S34VOC3GFPM3ZKOEDAW6C56" width="150" alt="Fabrica Digital" title="Fabrica Digital" align="right"/>
 </div>
 
