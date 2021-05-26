@@ -3,20 +3,20 @@
 <img
   alt="Presidencia de la República Dominicana"
   title="Presidencia de la República Dominicana"
-  src="https://raw.githubusercontent.com/alexblandino/template/main/page-break.PNG?token=AAPER2VXUG4Z2WOQOEQVDQTAW6FZS" />
+  src="manuales/assets/page-break.png" />
 <div>
   <img
     width="300"
     align="left"
     alt="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
     title="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
-    src="https://optic.gob.do/wp-content/themes/optic/img/logo.svg" />
+    src="manuales/assets/optic.svg" />
   <img
     width="150"
     align="right"
     alt="Fábrica Digital"
     title="Fábrica Digital"
-    src="https://raw.githubusercontent.com/alexblandino/template/main/digital-factory.PNG?token=AAPER2S34VOC3GFPM3ZKOEDAW6C56" >
+    src="manuales/assets/digital-factory.png" />
 </div>
 <br>
 <br>
@@ -35,5 +35,5 @@ _Aqui se desglosan todos los requerimientos minimos y los comandos necesarios pa
 <img
   alt="Presidencia de la República Dominicana"
   title="Presidencia de la República Dominicana"
-  src="https://raw.githubusercontent.com/alexblandino/template/main/page-break.PNG?token=AAPER2VXUG4Z2WOQOEQVDQTAW6FZS" />
+  src="manuales/assets/page-break.png" />
 <!-- Seccion obligatoria para todas las paginas subyacentes (cierre) -->

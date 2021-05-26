@@ -3,20 +3,20 @@
 <img
   alt="Presidencia de la República Dominicana"
   title="Presidencia de la República Dominicana"
-  src="https://raw.githubusercontent.com/alexblandino/template/main/page-break.PNG?token=AAPER2VXUG4Z2WOQOEQVDQTAW6FZS" />
+  src="manuales/assets/page-break.png" />
 <div>
   <img
     width="300"
     align="left"
     alt="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
     title="Oficina Presidencial de Tecnología de la Información y de la Comunicación"
-    src="https://optic.gob.do/wp-content/themes/optic/img/logo.svg" />
+    src="manuales/assets/logo.svg" />
   <img
     width="150"
     align="right"
     alt="Fábrica Digital"
     title="Fábrica Digital"
-    src="https://raw.githubusercontent.com/alexblandino/template/main/digital-factory.PNG?token=AAPER2S34VOC3GFPM3ZKOEDAW6C56" >
+    src="manuales/assets/digital-factory.png" />
 </div>
 <!-- Seccion obligatoria para todas las paginas subyacentes (cierre) -->
 
@@ -31,7 +31,7 @@
 
 <div align="center">
   <!-- Logo del proyecto (preferiblemente PNG con fondo transparente) -->
-  <img src="https://raw.githubusercontent.com/alexblandino/template/main/main-logo.png?token=AAPER2UNEFFLND6L5ZFHQP3AW6EES" align="center" width="760" />
+  <img src="manuales/assets/main-logo.png" align="center" width="760" />
   <br>
   <br>
   # <h1>Inspector Ciudadano</h1> <!-- Titulo del proyecto-->
@@ -68,8 +68,8 @@
     <li>
       <a href="#">Como empezar</a>
       <ul>
-        <li><a href="prerequisitos.md">Prerequisitos</a></li>
-        <li><a href="instalacion.md">Instalación</a></li>
+        <li><a href="manuales/gs_prerequisitos.md">Prerequisitos</a></li>
+        <li><a href="manuales/gs_instalacion.md">Instalación</a></li>
       </ul>
     </li>
     <li><a href="#como-contribuir">Como contribuir</a></li>
