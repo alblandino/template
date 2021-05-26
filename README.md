@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/alexblandino/template/main/page-break.PNG?token=AAPER2VXUG4Z2WOQOEQVDQTAW6FZS">
 <div>
   <img src="https://optic.gob.do/wp-content/themes/optic/img/logo.svg" width="300" alt="Oficina Presidencial de Tecnología de la Información y de la Comunicación" title="Oficina Presidencial de Tecnología de la Información y de la Comunicación" align="left"/>
   
