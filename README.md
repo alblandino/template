@@ -66,9 +66,9 @@
     <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
     <li><a href="#información-adicional">Información adicional</a></li>
     <li>
-      <a href="#como-empezar">Como empezar</a>
+      <a href="#">Como empezar</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisitos</a></li>
+        <li><a href="#prerequisitos">Prerequisitos</a></li>
         <li><a href="#installation">Instalación</a></li>
       </ul>
     </li>
